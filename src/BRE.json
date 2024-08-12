@@ -1,0 +1,460 @@
+[
+    {
+        "ExerciseSectionOrder": 1,
+        "ExerciseSectionTitleContentDef": "ExerciseSection.FinancialInvestmentRequest.Title",
+        "Exercises": [
+            {
+                "ExerciseOrder": 1,
+                "ExerciseTitleContentDef": "Exercise.SourcingForTungsten.SectionTitle",
+                "ExerciseDescriptionContentDef": "Exercise.SourcingForTungsten.Description",
+                "ExerciseId": "fdf0c7ad404f4e139e3d6a6232dde1d1",
+                "ExerciseTasks": [
+                    {
+                        "ExerciseTaskOrder": 1,
+                        "ExerciseTaskId": "371341f37d654ad0a90e5b0f397866da",
+                        "ExerciseTaskTitleContentDef": "ExerciseTask.email.SourcingAgreementForTungsten.Title",
+                        "ExerciseTaskDescriptionContentDef": null,
+                        "Type": "email",
+                        "ExerciseTaskConfiguration": [
+                            {
+                                "key": "From",
+                                "value": "ExerciseTask.email.SourcingAgreementForTungsten.From"
+                            },
+                            {
+                                "key": "To",
+                                "value": "ExerciseTask.email.SourcingAgreementForTungsten.To"
+                            },
+                            {
+                                "key": "CC",
+                                "value": "ExerciseTask.email.FinancialHealthWorksheet.CC"
+                            },
+                            {
+                                "key": "Date",
+                                "value": "ExerciseTask.email.SourcingAgreementForTungsten.Date"
+                            },
+                            {
+                                "key": "Subject",
+                                "value": "ExerciseTask.email.SourcingAgreementForTungsten.Subject"
+                            },
+                            {
+                                "key": "emailBody",
+                                "value": "ExerciseTask.email.SourcingAgreementForTungsten.emailBody"
+                            }
+                        ]
+                    },
+                    {
+                        "ExerciseTaskOrder": 2,
+                        "ExerciseTaskId": "570883f518aa4855ad0c88d49ba71643",
+                        "ExerciseTaskTitleContentDef": "ExerciseTask.worksheetApproveDeny.SourcingAgreementForTungsten.Title",
+                        "ExerciseTaskDescriptionContentDef": null,
+                        "Type": "worksheetApproveDeny",
+                        "ExerciseTaskConfiguration": {
+                            "denyBody": [
+                                [
+                                    {
+                                        "description": "ExerciseTask.worksheetApproveDeny.SourcingAgreementForTungsten.denyDescription.1"
+                                    },
+                                    {
+                                        "description": "ExerciseTask.worksheetApproveDeny.SourcingAgreementForTungsten.denyDescription.2"
+                                    }
+                                ]
+                            ],
+                            "denyTitle": "ExerciseTask.worksheetApproveDeny.SourcingAgreementForTungsten.denyTitle",
+                            "approveBody": [
+                                [
+                                    {
+                                        "description": "ExerciseTask.worksheetApproveDeny.SourcingAgreementForTungsten.approveDescription.1"
+                                    },
+                                    {
+                                        "description": "ExerciseTask.worksheetApproveDeny.SourcingAgreementForTungsten.approveDescription.2"
+                                    },
+                                    {
+                                        "description": "ExerciseTask.worksheetApproveDeny.SourcingAgreementForTungsten.approveDescription.3"
+                                    }
+                                ]
+                            ],
+                            "approveTitle": "ExerciseTask.worksheetApproveDeny.SourcingAgreementForTungsten.approveTitle"
+                        }
+                    }
+                ]
+            },
+            {
+                "ExerciseOrder": 2,
+                "ExerciseTitleContentDef": "Exercise.NewLineOfCameras.SectionTitle",
+                "ExerciseDescriptionContentDef": null,
+                "ExerciseId": "0f270a43a5e34d2e99f79219d62084da",
+                "ExerciseTasks": [
+                    {
+                        "ExerciseTaskOrder": 1,
+                        "ExerciseTaskId": "0254bc6914d345409217e670491cd275",
+                        "ExerciseTaskTitleContentDef": "ExerciseTask.email.NewLineOfCameras.Title",
+                        "ExerciseTaskDescriptionContentDef": null,
+                        "Type": "email",
+                        "ExerciseTaskConfiguration": [
+                            {
+                                "key": "From",
+                                "value": "ExerciseTask.email.NewLineOfCameras.From"
+                            },
+                            {
+                                "key": "To",
+                                "value": "ExerciseTask.email.NewLineOfCameras.To"
+                            },
+                            {
+                                "key": "Date",
+                                "value": "ExerciseTask.email.NewLineOfCameras.Date"
+                            },
+                            {
+                                "key": "CC",
+                                "value": "ExerciseTask.email.FinancialHealthWorksheet.CC"
+                            },
+                            {
+                                "key": "Subject",
+                                "value": "ExerciseTask.email.NewLineOfCameras.Subject"
+                            },
+                            {
+                                "key": "emailBody",
+                                "value": "ExerciseTask.email.NewLineOfCameras.emailBody"
+                            }
+                        ]
+                    },
+                    {
+                        "ExerciseTaskOrder": 2,
+                        "ExerciseTaskId": "b57df6f9b81a4289a24189503a01e293",
+                        "ExerciseTaskTitleContentDef": "ExerciseTask.worksheetApproveDeny.NewLineOfCameras.Title",
+                        "ExerciseTaskDescriptionContentDef": null,
+                        "Type": "worksheetApproveDeny",
+                        "ExerciseTaskConfiguration": {
+                            "denyBody": [
+                                [
+                                    {
+                                        "description": "ExerciseTask.worksheetApproveDeny.NewLineOfCameras.denyDescription.1"
+                                    },
+                                    {
+                                        "description": "ExerciseTask.worksheetApproveDeny.NewLineOfCameras.denyDescription.2"
+                                    }
+                                ]
+                            ],
+                            "denyTitle": "ExerciseTask.worksheetApproveDeny.NewLineOfCameras.denyTitle",
+                            "approveBody": [
+                                [
+                                    {
+                                        "description": "ExerciseTask.worksheetApproveDeny.NewLineOfCameras.approveDescription.1"
+                                    },
+                                    {
+                                        "description": "ExerciseTask.worksheetApproveDeny.NewLineOfCameras.approveDescription.2"
+                                    },
+                                    {
+                                        "description": "ExerciseTask.worksheetApproveDeny.NewLineOfCameras.approveDescription.3"
+                                    }
+                                ]
+                            ],
+                            "approveTitle": "ExerciseTask.worksheetApproveDeny.NewLineOfCameras.approveTitle"
+                        }
+                    }
+                ]
+            },
+            {
+                "ExerciseOrder": 3,
+                "ExerciseTitleContentDef": "Exercise.MktgForBndldSolutions.SectionTitle",
+                "ExerciseDescriptionContentDef": null,
+                "ExerciseId": "a751c5350cb641e0a407e5b9967fb3be",
+                "ExerciseTasks": [
+                    {
+                        "ExerciseTaskOrder": 1,
+                        "ExerciseTaskId": "e7180fc9c5c74f14af4a053d34870a1b",
+                        "ExerciseTaskTitleContentDef": "ExerciseTask.email.MktgForBndldSolutions.Title",
+                        "ExerciseTaskDescriptionContentDef": null,
+                        "Type": "email",
+                        "ExerciseTaskConfiguration": [
+                            {
+                                "key": "From",
+                                "value": "ExerciseTask.email.MktgForBndldSolutions.From"
+                            },
+                            {
+                                "key": "To",
+                                "value": "ExerciseTask.email.MktgForBndldSolutions.To"
+                            },
+                            {
+                                "key": "CC",
+                                "value": "ExerciseTask.email.FinancialHealthWorksheet.CC"
+                            },
+                            {
+                                "key": "Date",
+                                "value": "ExerciseTask.email.MktgForBndldSolutions.Date"
+                            },
+                            {
+                                "key": "Subject",
+                                "value": "ExerciseTask.email.MktgForBndldSolutions.Subject"
+                            },
+                            {
+                                "key": "emailBody",
+                                "value": "ExerciseTask.email.MktgForBndldSolutions.emailBody"
+                            }
+                        ]
+                    },
+                    {
+                        "ExerciseTaskOrder": 2,
+                        "ExerciseTaskId": "8c88052633f94bf5b3b9e9f316b2ddf9",
+                        "ExerciseTaskTitleContentDef": "ExerciseTask.worksheetApproveDeny.MktgForBndldSolutions.Title",
+                        "ExerciseTaskDescriptionContentDef": null,
+                        "Type": "worksheetApproveDeny",
+                        "ExerciseTaskConfiguration": {
+                            "denyBody": [
+                                [
+                                    {
+                                        "description": "ExerciseTask.worksheetApproveDeny.MktgForBndldSolutions.denyDescription.1"
+                                    },
+                                    {
+                                        "description": "ExerciseTask.worksheetApproveDeny.MktgForBndldSolutions.denyDescription.2"
+                                    }
+                                ]
+                            ],
+                            "denyTitle": "ExerciseTask.worksheetApproveDeny.MktgForBndldSolutions.denyTitle",
+                            "approveBody": [
+                                [
+                                    {
+                                        "description": "ExerciseTask.worksheetApproveDeny.MktgForBndldSolutions.approveDescription.1"
+                                    },
+                                    {
+                                        "description": "ExerciseTask.worksheetApproveDeny.MktgForBndldSolutions.approveDescription.2"
+                                    },
+                                    {
+                                        "description": "ExerciseTask.worksheetApproveDeny.MktgForBndldSolutions.approveDescription.3"
+                                    }
+                                ]
+                            ],
+                            "approveTitle": "ExerciseTask.worksheetApproveDeny.MktgForBndldSolutions.approveTitle"
+                        }
+                    }
+                ]
+            },
+            {
+                "ExerciseOrder": 4,
+                "ExerciseTitleContentDef": "Exercise.InvestingInOurPeople.SectionTitle",
+                "ExerciseDescriptionContentDef": null,
+                "ExerciseId": "691c9f56b0df4c2cb71e85d045b25210",
+                "ExerciseTasks": [
+                    {
+                        "ExerciseTaskOrder": 1,
+                        "ExerciseTaskId": "30281963c26e46cea29debe923c62634",
+                        "ExerciseTaskTitleContentDef": "ExerciseTask.email.InvestingInOurPeople.Title",
+                        "ExerciseTaskDescriptionContentDef": null,
+                        "Type": "email",
+                        "ExerciseTaskConfiguration": [
+                            {
+                                "key": "From",
+                                "value": "ExerciseTask.email.InvestingInOurPeople.From"
+                            },
+                            {
+                                "key": "To",
+                                "value": "ExerciseTask.email.InvestingInOurPeople.To"
+                            },
+                            {
+                                "key": "CC",
+                                "value": "ExerciseTask.email.FinancialHealthWorksheet.CC"
+                            },
+                            {
+                                "key": "Date",
+                                "value": "ExerciseTask.email.InvestingInOurPeople.Date"
+                            },
+                            {
+                                "key": "Subject",
+                                "value": "ExerciseTask.email.InvestingInOurPeople.Subject"
+                            },
+                            {
+                                "key": "emailBody",
+                                "value": "ExerciseTask.email.InvestingInOurPeople.emailBody"
+                            }
+                        ]
+                    },
+                    {
+                        "ExerciseTaskOrder": 2,
+                        "ExerciseTaskId": "93dbdbe4c61a4adbac19c91707280dd3",
+                        "ExerciseTaskTitleContentDef": "ExerciseTask.worksheetApproveDeny.InvestingInOurPeople.Title",
+                        "ExerciseTaskDescriptionContentDef": null,
+                        "Type": "worksheetApproveDeny",
+                        "ExerciseTaskConfiguration": {
+                            "denyBody": [
+                                [
+                                    {
+                                        "description": "ExerciseTask.worksheetApproveDeny.InvestingInOurPeople.denyDescription.1"
+                                    },
+                                    {
+                                        "description": "ExerciseTask.worksheetApproveDeny.InvestingInOurPeople.denyDescription.2"
+                                    }
+                                ]
+                            ],
+                            "denyTitle": "ExerciseTask.worksheetApproveDeny.InvestingInOurPeople.denyTitle",
+                            "approveBody": [
+                                [
+                                    {
+                                        "description": "ExerciseTask.worksheetApproveDeny.InvestingInOurPeople.approveDescription.1"
+                                    },
+                                    {
+                                        "description": "ExerciseTask.worksheetApproveDeny.InvestingInOurPeople.approveDescription.2"
+                                    },
+                                    {
+                                        "description": "ExerciseTask.worksheetApproveDeny.InvestingInOurPeople.approveDescription.3"
+                                    }
+                                ]
+                            ],
+                            "approveTitle": "ExerciseTask.worksheetApproveDeny.InvestingInOurPeople.approveTitle"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ExerciseSectionOrder": 2,
+        "ExerciseSectionTitleContentDef": "ExerciseSection.FinancialHealthResponse.Title",
+        "Exercises": [
+            {
+                "ExerciseOrder": 1,
+                "ExerciseTitleContentDef": "Exercise.FinancialHealthWorksheet.SectionTitle",
+                "ExerciseDescriptionContentDef": "Exercise.FinancialHealthWorksheet.Description",
+                "ExerciseId": "9db343031d4b4b98a0b74ff81abac9ee",
+                "ExerciseTasks": [
+                    {
+                        "ExerciseTaskOrder": 1,
+                        "ExerciseTaskId": "c4ee32fc190a4a28bdf49437cbf8a63a",
+                        "ExerciseTaskTitleContentDef": "ExerciseTask.worksheet.FinancialHealthWorksheet.Title",
+                        "ExerciseTaskDescriptionContentDef": null,
+                        "Type": "worksheet",
+                        "ExerciseTaskConfiguration": {
+                            "body": [
+                                [
+                                    {
+                                        "description": "ExerciseTask.worksheet.FinancialHealthWorksheet.worksheetDescription"
+                                    }
+                                ]
+                            ],
+                            "title": "ExerciseTask.worksheet.FinancialHealthWorksheet.worksheetTitle"
+                        }
+                    },
+                    {
+                        "ExerciseTaskOrder": 2,
+                        "ExerciseTaskId": "3a043bc47c544cbc8a52bb71bb54ce35",
+                        "ExerciseTaskTitleContentDef": null,
+                        "ExerciseTaskDescriptionContentDef": null,
+                        "Type": "worksheetMultipleAnswer",
+                        "ExerciseTaskConfiguration": {
+                            "body": [
+                                [
+                                    {
+                                        "description": "ExerciseTask.worksheetMultipleAnswer.FinancialHealthWorksheet.worksheetDescription1.2"
+                                    },
+                                    {
+                                        "description": "ExerciseTask.worksheetMultipleAnswer.FinancialHealthWorksheet.worksheetDescription1.2"
+                                    }
+                                ]
+                            ],
+                            "title": "ExerciseTask.worksheetMultipleAnswer.FinancialHealthWorksheet.worksheetTitle"
+                        }
+                    },
+                    {
+                        "ExerciseTaskOrder": 3,
+                        "ExerciseTaskId": "3e2d2f1ffdaa48ba8d345b4c578760fa",
+                        "ExerciseTaskTitleContentDef": "ExerciseTask.email.FinancialHealthWorksheet.Title",
+                        "ExerciseTaskDescriptionContentDef": null,
+                        "Type": "email",
+                        "ExerciseTaskConfiguration": [
+                            {
+                                "key": "From",
+                                "value": "ExerciseTask.email.FinancialHealthWorksheet.From"
+                            },
+                            {
+                                "key": "To",
+                                "value": "ExerciseTask.email.FinancialHealthWorksheet.To"
+                            },
+                            {
+                                "key": "CC",
+                                "value": "ExerciseTask.email.FinancialHealthWorksheet.CC"
+                            },
+                            {
+                                "key": "CC",
+                                "value": "ExerciseTask.email.FinancialHealthWorksheet.CC"
+                            },
+                            {
+                                "key": "Date",
+                                "value": "ExerciseTask.email.FinancialHealthWorksheet.Date"
+                            },
+                            {
+                                "key": "Subject",
+                                "value": "ExerciseTask.email.FinancialHealthWorksheet.Subject"
+                            },
+                            {
+                                "key": "emailBody",
+                                "value": "ExerciseTask.email.FinancialHealthWorksheet.emailBody"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ExerciseSectionOrder": 3,
+        "ExerciseSectionTitleContentDef": "ExerciseSection.TalentIssues.Title",
+        "Exercises": [
+            {
+                "ExerciseOrder": 1,
+                "ExerciseTitleContentDef": "Exercise.TurnoverTalentPriorities.SectionTitle",
+                "ExerciseDescriptionContentDef": null,
+                "ExerciseId": "184368fe049b4d3cb5351ff1128f63eb",
+                "ExerciseTasks": [
+                    {
+                        "ExerciseTaskOrder": 1,
+                        "ExerciseTaskId": "200d3f9d049a46c6a3ad04ea6cf01a0f",
+                        "ExerciseTaskTitleContentDef": "ExerciseTask.email.TurnoverTalentPriorities.Title",
+                        "ExerciseTaskDescriptionContentDef": null,
+                        "Type": "email",
+                        "ExerciseTaskConfiguration": [
+                            {
+                                "key": "From",
+                                "value": "ExerciseTask.email.TurnoverTalentPriorities.From"
+                            },
+                            {
+                                "key": "To",
+                                "value": "ExerciseTask.email.TurnoverTalentPriorities.To"
+                            },
+                            {
+                                "key": "CC",
+                                "value": "ExerciseTask.email.FinancialHealthWorksheet.CC"
+                            },
+                            {
+                                "key": "Date",
+                                "value": "ExerciseTask.email.TurnoverTalentPriorities.Date"
+                            },
+                            {
+                                "key": "Subject",
+                                "value": "ExerciseTask.email.TurnoverTalentPriorities.Subject"
+                            },
+                            {
+                                "key": "emailBody",
+                                "value": "ExerciseTask.email.TurnoverTalentPriorities.emailBody"
+                            }
+                        ]
+                    },
+                    {
+                        "ExerciseTaskOrder": 2,
+                        "ExerciseTaskId": "7b2722de94b047baaa98cd01b362daa0",
+                        "ExerciseTaskTitleContentDef": "ExerciseTask.worksheetMultipleAnswer.TurnoverTalentPriorities.Title",
+                        "ExerciseTaskDescriptionContentDef": "ExerciseTask.worksheetMultipleAnswer.TurnoverTalentPriorities.Description",
+                        "Type": "worksheetMultipleAnswer",
+                        "ExerciseTaskConfiguration": {
+                            "body": [
+                                [
+                                    {
+                                        "description": "ExerciseTask.worksheetMultipleAnswer.TurnoverTalentPriorities.worksheetDescription1.1"
+                                    }
+                                ]
+                            ],
+                            "title": "ExerciseTask.worksheetMultipleAnswer.TurnoverTalentPriorities.worksheetTitle"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]
